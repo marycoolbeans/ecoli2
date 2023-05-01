@@ -1,0 +1,2 @@
+When using this dataset please use the following citation and pay attention to the rights documented in rights.txt:
+MGnify (2019). Amplicon sequencing of gyrA and parC in Escherichia communities in river/lake sediments. Sampling event dataset https://doi.org/10.15468/xwiamz accessed via GBIF.org on 2023-05-01.
